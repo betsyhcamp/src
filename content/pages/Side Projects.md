@@ -1,5 +1,6 @@
 Title: Selected Projects
 
+The most up-to-date source of my projects is on Github along with smaller projects. 
 
 ### Software
 * A python-based toolbox for dimensional reduction via POD and clustering via recurrence analysis [*[link]*](https://github.com/betsyhcamp)
